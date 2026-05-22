@@ -1,0 +1,330 @@
+{
+  "testName": "Agniveer GD PYQ 2024",
+  "description": "Previous Year Question Paper 2024",
+  "totalQuestions": 50,
+  "totalMarks": 100,
+  "timeMinutes": 60,
+  "subjects": {
+    "GK": 15,
+    "Science": 15,
+    "Maths": 15,
+    "Reasoning": 5
+  },
+  "markingScheme": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "questions": [
+    {
+      "question": "Which country is called 'Land of the Thunder Dragon'?",
+      "options": ["Nepal", "Bhutan", "Bangladesh", "Myanmar"],
+      "answer": "Bhutan",
+      "subject": "GK"
+    },
+    {
+      "question": "Which ocean/sea lies to the west of India?",
+      "options": ["The Arabian Sea", "The Bay of Bengal", "The Indian Ocean", "None of the above"],
+      "answer": "The Arabian Sea",
+      "subject": "GK"
+    },
+    {
+      "question": "What was the code name of Indo-Pak Kargil War?",
+      "options": ["Operation Blue Star", "Operation Vijay", "Operation Viraat", "Operation Kargil"],
+      "answer": "Operation Vijay",
+      "subject": "GK"
+    },
+    {
+      "question": "Which state of India has the highest population density?",
+      "options": ["West Bengal", "Bihar", "Maharashtra", "Kerala"],
+      "answer": "Bihar",
+      "subject": "GK"
+    },
+    {
+      "question": "Who is the Chief Minister of Tamil Nadu?",
+      "options": ["EK Palaniswami", "BT Subramaniam", "O Panneerselvam", "MK Stalin"],
+      "answer": "MK Stalin",
+      "subject": "GK"
+    },
+    {
+      "question": "Who is the current Vice President of the U.S.?",
+      "options": ["Pam Bondi", "Kamla Harris", "Tulsi Gabbard", "J. D. Vance"],
+      "answer": "J. D. Vance",
+      "subject": "GK"
+    },
+    {
+      "question": "Who said, 'Political freedom is the breath of the nation'?",
+      "options": ["Bal Gangadhar Tilak", "Bipin Chandra Pal", "Arvind Ghosh", "Rabindranath Tagore"],
+      "answer": "Arvind Ghosh",
+      "subject": "GK"
+    },
+    {
+      "question": "Kathakali is the dance of which state of India?",
+      "options": ["Maharashtra", "Uttarakhand", "Odisha", "Kerala"],
+      "answer": "Kerala",
+      "subject": "GK"
+    },
+    {
+      "question": "Downs are temperate grassland in:",
+      "options": ["Australia", "China", "Japan", "USA"],
+      "answer": "Australia",
+      "subject": "GK"
+    },
+    {
+      "question": "Dandi March was started on-",
+      "options": ["12 March, 1930", "6 April, 1930", "12 November, 1930", "12 September, 1931"],
+      "answer": "12 March, 1930",
+      "subject": "GK"
+    },
+    {
+      "question": "Who among the following eminent musicians is a famous tabla player?",
+      "options": ["Ustad Moinuddin Khan", "Ustad Bade Gulam Ali Khan", "Ustad Abdul Rashid Khan", "Ustad Zakir Hussain"],
+      "answer": "Ustad Zakir Hussain",
+      "subject": "GK"
+    },
+    {
+      "question": "'National Youth Day' is celebrated on _____.",
+      "options": ["12th January", "3rd January", "30th January", "21st January"],
+      "answer": "12th January",
+      "subject": "GK"
+    },
+    {
+      "question": "The ______ Amendment decreased the voting age from 21 to 18.",
+      "options": ["61st", "25th", "42nd", "44th"],
+      "answer": "61st",
+      "subject": "GK"
+    },
+    {
+      "question": "What is the motto of Indian Air Force?",
+      "options": ["Sewa Paramo Dharma", "Nabha Sparsham Deeptam", "Sham-no Varuna", "Aakasey Satrun Jahi"],
+      "answer": "Nabha Sparsham Deeptam",
+      "subject": "GK"
+    },
+    {
+      "question": "Which is the driest place in the world?",
+      "options": ["Wastack", "Erica", "McMurdo", "Ethiopia"],
+      "answer": "McMurdo",
+      "subject": "GK"
+    },
+    {
+      "question": "What is the SI unit of acceleration?",
+      "options": ["m/s", "m/s²", "s/m", "m/s²"],
+      "answer": "m/s²",
+      "subject": "Science"
+    },
+    {
+      "question": "An essential feature of seed germination is the presence of",
+      "options": ["Minerals", "Water", "Light", "Temperature"],
+      "answer": "Water",
+      "subject": "Science"
+    },
+    {
+      "question": "Name the technique used to separate butter from curd.",
+      "options": ["Centrifugation", "Sublimation", "Evaporation", "Filtration"],
+      "answer": "Centrifugation",
+      "subject": "Science"
+    },
+    {
+      "question": "The process used to separate grain from stalks is",
+      "options": ["Hand picking", "Threshing", "Sublimation", "Sieving"],
+      "answer": "Threshing",
+      "subject": "Science"
+    },
+    {
+      "question": "Golden Rice contains high amount of ________",
+      "options": ["Vitamin D", "Vitamin A", "Vitamin B", "Vitamin C"],
+      "answer": "Vitamin A",
+      "subject": "Science"
+    },
+    {
+      "question": "How many canine teeth are there in adult human?",
+      "options": ["2", "8", "6", "4"],
+      "answer": "4",
+      "subject": "Science"
+    },
+    {
+      "question": "Which of the following is not a component of an electric circuit?",
+      "options": ["Switch", "Board", "Resistor", "Capacitor"],
+      "answer": "Board",
+      "subject": "Science"
+    },
+    {
+      "question": "Nitrogen constitutes _______% of our atmosphere",
+      "options": ["28", "58", "68", "78"],
+      "answer": "78",
+      "subject": "Science"
+    },
+    {
+      "question": "What is S.I unit of Energy?",
+      "options": ["Joule", "Watt", "Newton", "None of these"],
+      "answer": "Joule",
+      "subject": "Science"
+    },
+    {
+      "question": "When ice melts into water, its:-",
+      "options": ["Volume increases", "Mass increases", "Volume decreases", "Mass decreases"],
+      "answer": "Volume decreases",
+      "subject": "Science"
+    },
+    {
+      "question": "The main component of compressed natural gas (CNG) is",
+      "options": ["Ethane", "Methane", "Butane", "None of the above"],
+      "answer": "Methane",
+      "subject": "Science"
+    },
+    {
+      "question": "Formation of curd by milk is done by-",
+      "options": ["Yeasts", "Lactobacillus", "Moulds", "Algae"],
+      "answer": "Lactobacillus",
+      "subject": "Science"
+    },
+    {
+      "question": "Which among the following is the fifth state of matter?",
+      "options": ["Liquid", "Supersolid", "Bose-Einstein Condensate (BEC)", "Plasma"],
+      "answer": "Bose-Einstein Condensate (BEC)",
+      "subject": "Science"
+    },
+    {
+      "question": "Pasteurization is related to",
+      "options": ["Sterilization of milk", "Dehydration of milk", "Fermentation of milk", "Distillation of milk"],
+      "answer": "Sterilization of milk",
+      "subject": "Science"
+    },
+    {
+      "question": "The process of respiration is",
+      "options": [
+        "An oxidation reaction which is exothermic",
+        "An oxidation reaction which is endothermic",
+        "A reduction reaction which is exothermic",
+        "A reduction reaction which is endothermic"
+      ],
+      "answer": "An oxidation reaction which is exothermic",
+      "subject": "Science"
+    },
+    {
+      "question": "65% of 1465 is:",
+      "options": ["940.25", "953.25", "925.50", "930.25"],
+      "answer": "953.25",
+      "subject": "Maths"
+    },
+    {
+      "question": "If 20 men working for 10 days earn ₹71800, how much will 26 men earn in 17 days?",
+      "options": ["₹158678", "₹178678", "₹158000", "₹155000"],
+      "answer": "₹158678",
+      "subject": "Maths"
+    },
+    {
+      "question": "7982 + 93 = ?",
+      "options": ["8025", "8050", "8075", "8500"],
+      "answer": "8075",
+      "subject": "Maths"
+    },
+    {
+      "question": "What is the measure of each interior angle in an equilateral triangle?",
+      "options": ["75°", "80°", "90°", "60°"],
+      "answer": "60°",
+      "subject": "Maths"
+    },
+    {
+      "question": "If x : 7 = 56 : 40, Find the value of x.",
+      "options": ["9.8", "8.9", "10", "7.8"],
+      "answer": "9.8",
+      "subject": "Maths"
+    },
+    {
+      "question": "The present population of a village is 17000. If the population increases by 25% in the next year, what will be the population at the end of the year?",
+      "options": ["21250", "22250", "23000", "21500"],
+      "answer": "21250",
+      "subject": "Maths"
+    },
+    {
+      "question": "Express 48% as a simplified fraction.",
+      "options": ["12/25", "15/25", "8/25", "13/20"],
+      "answer": "12/25",
+      "subject": "Maths"
+    },
+    {
+      "question": "What is the average of 206, 205, 90, and 315?",
+      "options": ["205", "201", "204", "198"],
+      "answer": "204",
+      "subject": "Maths"
+    },
+    {
+      "question": "Find the LCM of 21, 4, 28, 42.",
+      "options": ["84", "42", "96", "72"],
+      "answer": "84",
+      "subject": "Maths"
+    },
+    {
+      "question": "12 × 18 - 12 = ?",
+      "options": ["138", "204", "190", "168"],
+      "answer": "204",
+      "subject": "Maths"
+    },
+    {
+      "question": "The present age ratio of A to B is 5:2. If B is 18 years old, what is the present age of A?",
+      "options": ["42", "32", "45", "54"],
+      "answer": "45",
+      "subject": "Maths"
+    },
+    {
+      "question": "The area of a rectangle is 35 cm². If its length is 7 cm, what is the perimeter of the rectangle?",
+      "options": ["18 cm", "12 cm", "24 cm", "36 cm"],
+      "answer": "24 cm",
+      "subject": "Maths"
+    },
+    {
+      "question": "Ram had 60 chocolates. If he ate 20% of them, how many chocolates does he have left?",
+      "options": ["48", "58", "52", "56"],
+      "answer": "48",
+      "subject": "Maths"
+    },
+    {
+      "question": "3⁵ × 3⁰ = ?",
+      "options": ["253", "248", "242", "243"],
+      "answer": "243",
+      "subject": "Maths"
+    },
+    {
+      "question": "What is (a + b)² ?",
+      "options": ["a² + 2ab + b²", "a² + b²", "a² + b", "a + b²"],
+      "answer": "a² + 2ab + b²",
+      "subject": "Maths"
+    },
+    {
+      "question": "Pointing at a lady in a photograph, a man said 'She is niece of my only son'. How is the man related to that lady?",
+      "options": ["Paternal grandfather", "Brother-in-law", "Maternal grandfather", "Uncle"],
+      "answer": "Maternal grandfather",
+      "subject": "Reasoning"
+    },
+    {
+      "question": "If in a special code language DEMOCRAT is written as FCOMEPCR, then what will be the code for MONARCHY in that code language?",
+      "options": ["QMPYTAJW", "OMPYUAJW", "OMPZZTBJW", "OMPYTAJW"],
+      "answer": "OMPYTAJW",
+      "subject": "Reasoning"
+    },
+    {
+      "question": "If '+' means '×', '-' means '+', '×' means '÷' and '÷' means '-', then choose the correct expression.",
+      "options": [
+        "14 × 7 ÷ 2 – 48 + 16 = 97",
+        "38 ÷ 2 + 1 × 6 - 6 = 18",
+        "21 × 7 ÷ 7 + 3 - 21 = 3",
+        "9 × 3 ÷ 12 + 5 - 24 = 31"
+      ],
+      "answer": "21 × 7 ÷ 7 + 3 - 21 = 3",
+      "subject": "Reasoning"
+    },
+    {
+      "question": "In a certain code language, 'HOST' is coded as '9724', 'KINDO' is coded as '45310', 'KNOWS' is coded as '37654'. What can be the code for 'W'?",
+      "options": ["6", "5", "4", "7"],
+      "answer": "6",
+      "subject": "Reasoning"
+    },
+    {
+      "question": "In a row of 45 students, Julie is 17th from the right end. What will be her rank from the left end?",
+      "options": ["27", "29", "28", "30"],
+      "answer": "29",
+      "subject": "Reasoning"
+    }
+  ]
+}
