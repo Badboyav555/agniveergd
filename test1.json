@@ -1,0 +1,319 @@
+{
+  "testName": "Agniveer GD PYQ 2024",
+  "description": "Previous Year Question Paper - April 2024 Shift 1",
+  "totalQuestions": 50,
+  "totalMarks": 100,
+  "timeMinutes": 60,
+  "subjects": {
+    "GK": 15,
+    "Science": 20,
+    "Maths": 15
+  },
+  "markingScheme": {
+    "correct": 2,
+    "wrong": -0.5,
+    "unattempted": 0
+  },
+  "questions": [
+    {
+      "question": "Who is the Supreme Commander of Indian Armed Forces?",
+      "options": ["Prime Minister", "President", "Defence Minister", "Army Chief"],
+      "answer": "President",
+      "subject": "GK"
+    },
+    {
+      "question": "Indian Army Day is celebrated on?",
+      "options": ["15 January", "26 January", "15 August", "8 October"],
+      "answer": "15 January",
+      "subject": "GK"
+    },
+    {
+      "question": "What is the motto of Indian Army?",
+      "options": ["Service Before Self", "Shaurya Aur Sahas", "Nabham Sparsham", "Veerta Aur Vishwas"],
+      "answer": "Service Before Self",
+      "subject": "GK"
+    },
+    {
+      "question": "Operation Vijay was launched in?",
+      "options": ["1997", "1998", "1999", "2000"],
+      "answer": "1999",
+      "subject": "GK"
+    },
+    {
+      "question": "Who was the first Field Marshal of India?",
+      "options": ["K.M. Cariappa", "Sam Manekshaw", "K.S. Thimayya", "Arjan Singh"],
+      "answer": "Sam Manekshaw",
+      "subject": "GK"
+    },
+    {
+      "question": "Where is IMA located?",
+      "options": ["Dehradun", "Pune", "Chennai", "Khadakwasla"],
+      "answer": "Dehradun",
+      "subject": "GK"
+    },
+    {
+      "question": "What is India's highest gallantry award?",
+      "options": ["Ashoka Chakra", "Param Vir Chakra", "Vir Chakra", "Shaurya Chakra"],
+      "answer": "Param Vir Chakra",
+      "subject": "GK"
+    },
+    {
+      "question": "What does INS stand for?",
+      "options": ["Indian Naval Ship", "Indian National Ship", "Indian Navy Service", "International Naval Ship"],
+      "answer": "Indian Naval Ship",
+      "subject": "GK"
+    },
+    {
+      "question": "Which is the largest cantonment in India?",
+      "options": ["Pune", "Bathinda", "Secunderabad", "Delhi Cantt"],
+      "answer": "Bathinda",
+      "subject": "GK"
+    },
+    {
+      "question": "Indian Air Force Day is on?",
+      "options": ["8 October", "15 January", "4 December", "26 January"],
+      "answer": "8 October",
+      "subject": "GK"
+    },
+    {
+      "question": "What is the full form of NCC?",
+      "options": ["National Cadet Corps", "National Civil Corps", "National Command Corps", "National Citizen Corps"],
+      "answer": "National Cadet Corps",
+      "subject": "GK"
+    },
+    {
+      "question": "Which is the highest battlefield in the world?",
+      "options": ["Kargil", "Siachen Glacier", "Drass", "Leh"],
+      "answer": "Siachen Glacier",
+      "subject": "GK"
+    },
+    {
+      "question": "Indian Navy Day is on?",
+      "options": ["4 December", "15 January", "8 October", "26 January"],
+      "answer": "4 December",
+      "subject": "GK"
+    },
+    {
+      "question": "Who is known as Father of Indian Army?",
+      "options": ["Stringer Lawrence", "Field Marshal Cariappa", "General Thimayya", "Maharaja Ranjit Singh"],
+      "answer": "Stringer Lawrence",
+      "subject": "GK"
+    },
+    {
+      "question": "What is the full form of ARTRAC?",
+      "options": ["Army Training Command", "Army Tactical Research And Command", "Army Training And Research Command", "Army Technical Research Academy"],
+      "answer": "Army Training Command",
+      "subject": "GK"
+    },
+    {
+      "question": "Chemical symbol of Water is?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "answer": "H2O",
+      "subject": "Science"
+    },
+    {
+      "question": "Most abundant gas in atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "subject": "Science"
+    },
+    {
+      "question": "SI unit of force is?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "answer": "Newton",
+      "subject": "Science"
+    },
+    {
+      "question": "Vitamin C is also known as?",
+      "options": ["Ascorbic Acid", "Citric Acid", "Lactic Acid", "Amino Acid"],
+      "answer": "Ascorbic Acid",
+      "subject": "Science"
+    },
+    {
+      "question": "Largest organ in human body?",
+      "options": ["Heart", "Liver", "Skin", "Brain"],
+      "answer": "Skin",
+      "subject": "Science"
+    },
+    {
+      "question": "Red Planet is?",
+      "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+      "answer": "Mars",
+      "subject": "Science"
+    },
+    {
+      "question": "pH of pure water?",
+      "options": ["5", "7", "9", "14"],
+      "answer": "7",
+      "subject": "Science"
+    },
+    {
+      "question": "Best conductor of electricity?",
+      "options": ["Copper", "Silver", "Gold", "Aluminium"],
+      "answer": "Silver",
+      "subject": "Science"
+    },
+    {
+      "question": "Normal body temperature?",
+      "options": ["35°C", "37°C", "39°C", "40°C"],
+      "answer": "37°C",
+      "subject": "Science"
+    },
+    {
+      "question": "Gas used in fire extinguisher?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide",
+      "subject": "Science"
+    },
+    {
+      "question": "Formula of common salt?",
+      "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+      "answer": "NaCl",
+      "subject": "Science"
+    },
+    {
+      "question": "Photosynthesis occurs in?",
+      "options": ["Root", "Stem", "Leaf", "Flower"],
+      "answer": "Leaf",
+      "subject": "Science"
+    },
+    {
+      "question": "Speed of light in vacuum?",
+      "options": ["3×10⁶ m/s", "3×10⁷ m/s", "3×10⁸ m/s", "3×10⁹ m/s"],
+      "answer": "3×10⁸ m/s",
+      "subject": "Science"
+    },
+    {
+      "question": "Vitamin D deficiency causes?",
+      "options": ["Scurvy", "Rickets", "Night Blindness", "Anaemia"],
+      "answer": "Rickets",
+      "subject": "Science"
+    },
+    {
+      "question": "Atomic number of Carbon?",
+      "options": ["4", "6", "8", "12"],
+      "answer": "6",
+      "subject": "Science"
+    },
+    {
+      "question": "Powerhouse of cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Body"],
+      "answer": "Mitochondria",
+      "subject": "Science"
+    },
+    {
+      "question": "Boiling point of water?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "answer": "100°C",
+      "subject": "Science"
+    },
+    {
+      "question": "Closest planet to Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "answer": "Mercury",
+      "subject": "Science"
+    },
+    {
+      "question": "Lens used in magnifying glass?",
+      "options": ["Concave", "Convex", "Plane", "Cylindrical"],
+      "answer": "Convex",
+      "subject": "Science"
+    },
+    {
+      "question": "Universal donor blood group?",
+      "options": ["A+", "B+", "AB+", "O-"],
+      "answer": "O-",
+      "subject": "Science"
+    },
+    {
+      "question": "25% of 200 = ?",
+      "options": ["40", "50", "60", "45"],
+      "answer": "50",
+      "subject": "Maths"
+    },
+    {
+      "question": "If x+5=12, then x=?",
+      "options": ["5", "7", "8", "6"],
+      "answer": "7",
+      "subject": "Maths"
+    },
+    {
+      "question": "√144 = ?",
+      "options": ["10", "11", "12", "14"],
+      "answer": "12",
+      "subject": "Maths"
+    },
+    {
+      "question": "15×4-10 = ?",
+      "options": ["50", "40", "60", "45"],
+      "answer": "50",
+      "subject": "Maths"
+    },
+    {
+      "question": "1/4 of 100 = ?",
+      "options": ["20", "25", "30", "15"],
+      "answer": "25",
+      "subject": "Maths"
+    },
+    {
+      "question": "Train covers 120km in 2hrs, speed?",
+      "options": ["50 km/h", "60 km/h", "70 km/h", "55 km/h"],
+      "answer": "60 km/h",
+      "subject": "Maths"
+    },
+    {
+      "question": "15% of 300 = ?",
+      "options": ["35", "40", "45", "50"],
+      "answer": "45",
+      "subject": "Maths"
+    },
+    {
+      "question": "Area of square side 5cm?",
+      "options": ["20 cm²", "25 cm²", "30 cm²", "15 cm²"],
+      "answer": "25 cm²",
+      "subject": "Maths"
+    },
+    {
+      "question": "Perimeter of 10×5 rectangle?",
+      "options": ["30 cm", "50 cm", "40 cm", "20 cm"],
+      "answer": "30 cm",
+      "subject": "Maths"
+    },
+    {
+      "question": "CP if SP=Rs.20 with 25% profit?",
+      "options": ["Rs.15", "Rs.16", "Rs.18", "Rs.14"],
+      "answer": "Rs.16",
+      "subject": "Maths"
+    },
+    {
+      "question": "LCM of 12 and 18?",
+      "options": ["24", "36", "48", "30"],
+      "answer": "36",
+      "subject": "Maths"
+    },
+    {
+      "question": "HCF of 24 and 36?",
+      "options": ["6", "12", "8", "4"],
+      "answer": "12",
+      "subject": "Maths"
+    },
+    {
+      "question": "(25÷5)+(12×2) = ?",
+      "options": ["29", "30", "28", "31"],
+      "answer": "29",
+      "subject": "Maths"
+    },
+    {
+      "question": "Value of π (approx)?",
+      "options": ["3.14", "2.14", "4.14", "1.14"],
+      "answer": "3.14",
+      "subject": "Maths"
+    },
+    {
+      "question": "Car travels 90km in 1.5hrs, speed?",
+      "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+      "answer": "60 km/h",
+      "subject": "Maths"
+    }
+  ]
+}
