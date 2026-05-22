@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+  <title>Agniveer GD Mock Test | Multiple Test Papers</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>@keyframes confettiFall{0%{transform:translateY(0) rotate(0deg);opacity:1;}100%{transform:translateY(100vh) rotate(720deg);opacity:0;}}</style>
+</head>
+<body>
+  <div id="particles-bg"></div>
+  <div class="app-container">
+    <div class="navbar">
+      <div class="logo-area">🎖️ <strong>Agniveer GD</strong></div>
+      <div class="nav-buttons">
+        <button class="icon-btn" id="darkModeToggle">🌓</button>
+        <button class="icon-btn" id="fullscreenBtn">⛶</button>
+      </div>
+    </div>
+
+    <div id="loadingScreen" class="screen active">
+      <div class="loader"></div>
+      <p style="color:#475569;">Loading test papers...</p>
+      <p style="font-size:0.8rem;color:#94a3b8;">Fetching from JSON files</p>
+    </div>
+
+    <div id="homeScreen" class="screen">
+      <h1>AGNIVEER GD<br>MOCK TEST</h1>
+      <p class="subtitle">⚔️ Indian Army Preparation Platform ⚔️</p>
+      <p style="text-align:center;font-weight:600;margin-bottom:16px;color:#1e3a8a;">📋 Select Test Paper</p>
+      <div id="testList"></div>
+      <button class="glass-btn" onclick="alert('📋 PATTERN:\n50 Questions | 100 Marks | 60 Min\n🧠 GK: 15Q | 🔬 Science: 20Q | 📐 Maths: 15Q\n✅ +2 Correct | ❌ -0.5 Wrong | ⬜ 0 Unattempted')">📖 Exam Pattern</button>
+    </div>
+
+    <div id="testScreen" class="screen">
+      <div class="test-top-bar">
+        <span id="questionIndicator">Q 1/50</span>
+        <span id="currentSubject" class="subject-badge">GK</span>
+        <span id="countdownTimer" class="timer-glow">60:00</span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%;"></div></div>
+      <div class="question-card" id="questionText">Loading...</div>
+      <div id="optionsContainer"></div>
+      <div class="nav-btns-row">
+        <button class="glass-btn" id="prevBtn">◀ Previous</button>
+        <button class="glass-btn" id="nextBtn">Next ▶</button>
+      </div>
+      <div class="grid-palette" id="questionPalette"></div>
+      <button class="glass-btn primary" id="submitTestBtn">✅ Submit Test</button>
+      <button class="glass-btn danger" id="backToHomeBtn">🏠 Back to Home</button>
+    </div>
+
+    <div id="resultScreen" class="screen">
+      <h2 style="text-align:center;">🏆 Test Result</h2>
+      <div class="result-card">
+        <div id="scoreVisual"></div>
+        <div id="resultStats"></div>
+        <div id="rankMessage"></div>
+      </div>
+      <button class="glass-btn primary" id="restartBtn">🔄 Retake Test</button>
+      <button class="glass-btn" id="reviewBtn">🔍 Review Answers</button>
+      <button class="glass-btn" id="backToPapersFromResult">🏠 Home</button>
+    </div>
+
+    <div id="reviewScreen" class="screen">
+      <h3>📝 Answer Review</h3>
+      <div id="reviewList"></div>
+      <button class="glass-btn" id="backToResultBtn">↩ Back to Result</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
